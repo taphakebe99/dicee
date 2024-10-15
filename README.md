@@ -1,6 +1,6 @@
 # Dicee 🎲
-## Image de mon projet
-![Mon image de projet](dice_app.png)
+<img src="images/dice_app.png" alt="Mon image de projet" width="300" height="200">
+
 
 
 ## Mon objectif
