@@ -1,4 +1,4 @@
-#Wed Oct 09 20:55:14 CEST 2024
+#Tue Oct 15 15:30:28 CEST 2024
 base.0=/home/kebe/Bureau/udemy_flutter/dicee/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/kebe/Bureau/udemy_flutter/dicee/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/kebe/Bureau/udemy_flutter/dicee/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
