@@ -1,4 +1,6 @@
 # Dicee 🎲
+## Image de mon projet
+![Mon image de projet]dice_app.png)
 
 ## Mon objectif
 L'objectif de ce tutoriel est de m'introduire aux concepts fondamentaux de la programmation qui constitueront la base de la plupart des applications que je construirai à l'avenir. Avec cette application, j'ai appris à créer des applications fonctionnelles en utilisant `setState()` à l'intérieur de widgets Flutter à état (Stateful).
