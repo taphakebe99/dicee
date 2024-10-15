@@ -1,5 +1,5 @@
 # Dicee 🎲
-<img src="dice_app.png" alt="Mon image de projet" width="300" height="200">
+<img src="dice_app.png" alt="Mon image de projet" width="300" height="500">
 
 
 
